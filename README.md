@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Marat 👋 </h1>
 
-<div style="display:flex">
-  <h3 align="center">Computer 21 school student 🇷🇺</h3>
-  <img src="https://yt3.googleusercontent.com/j3T9MGX6B1zpOKUmrMdoaYGWiPJbe244P_ozdmP-IO5tpnfJUxCA-U8g5nvBTysxYKGHvXQXBg=s900-c-k-c0x00ffffff-no-rj" height="30"> 
-</div>
+  <h3 align="center">Computer 21 school student 🇷🇺<img src="https://yt3.googleusercontent.com/j3T9MGX6B1zpOKUmrMdoaYGWiPJbe244P_ozdmP-IO5tpnfJUxCA-U8g5nvBTysxYKGHvXQXBg=s900-c-k-c0x00ffffff-no-rj" height="30"> </h3>
 
 
 <!--
@@ -20,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 [![codewars](https://www.codewars.com/users/Marat69/badges/large)](https://www.codewars.com/users/Marat69)   
