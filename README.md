@@ -1,5 +1,5 @@
-### Hi there 👋
-### Computer 21 school student 🇷🇺
+### Hi there, I'm Marat 👋 
+### Computer 21 school student 
 <!--
 **Ramramramzes/Ramramramzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Marat69) 
