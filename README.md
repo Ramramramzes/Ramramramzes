@@ -2,7 +2,7 @@
 
 <div style="display:flex">
   <h3 align="center">Computer 21 school student 🇷🇺</h3>
-  <img src="https://yt3.googleusercontent.com/j3T9MGX6B1zpOKUmrMdoaYGWiPJbe244P_ozdmP-IO5tpnfJUxCA-U8g5nvBTysxYKGHvXQXBg=s900-c-k-c0x00ffffff-no-rj"> 
+  <img src="https://yt3.googleusercontent.com/j3T9MGX6B1zpOKUmrMdoaYGWiPJbe244P_ozdmP-IO5tpnfJUxCA-U8g5nvBTysxYKGHvXQXBg=s900-c-k-c0x00ffffff-no-rj" height="30"> 
 </div>
 
 
