@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm Marat 👋 </h1>
+<h1 align="center">Hi there, I'm Marat <img src="https://yt3.googleusercontent.com/j3T9MGX6B1zpOKUmrMdoaYGWiPJbe244P_ozdmP-IO5tpnfJUxCA-U8g5nvBTysxYKGHvXQXBg=s900-c-k-c0x00ffffff-no-rj" height="30"></h1>
 
-  <p align="center">Computer 21 school student   <img src="https://yt3.googleusercontent.com/j3T9MGX6B1zpOKUmrMdoaYGWiPJbe244P_ozdmP-IO5tpnfJUxCA-U8g5nvBTysxYKGHvXQXBg=s900-c-k-c0x00ffffff-no-rj" height="30"> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+21+school+student)](https://git.io/typing-svg)
+
 
 
 <!--
