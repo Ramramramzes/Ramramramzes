@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Marat<img style="width: 10%" src="https://yt3.googleusercontent.com/j3T9MGX6B1zpOKUmrMdoaYGWiPJbe244P_ozdmP-IO5tpnfJUxCA-U8g5nvBTysxYKGHvXQXBg=s900-c-k-c0x00ffffff-no-rj"> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Marat</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://yt3.googleusercontent.com/j3T9MGX6B1zpOKUmrMdoaYGWiPJbe244P_ozdmP-IO5tpnfJUxCA-U8g5nvBTysxYKGHvXQXBg=s900-c-k-c0x00ffffff-no-rj" height="35"> 
 <h3 align="center">Computer 21 school student 🇷🇺</h3>
 
 
