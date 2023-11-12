@@ -6,7 +6,7 @@
 - 👨🏻‍💻 I’m currently working in medical college, in IT department.
 - 🌱 I am a student at 21 Sber school
 - 🔭 I’m currently working on my C projects
-- 🐍 I’m learning C and Pyton
+- 🐍 I’m learning C and Python
 - 🎓 I also study at the university
 - 📫 How to reach me: [Telegram](https://t.me/marat_pliev)
 
