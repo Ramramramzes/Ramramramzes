@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23009D57&lines=21+school+student)](https://git.io/typing-svg)
 - 👨🏻‍💻 I’m currently working in medical college, in IT department.
 - 🌱 I am a student at 21 Sber school
-- 🔭 I’m currently working on my C projects
+- 🔭 I’m currently working on my React projects
 - 🐍 I’m learning C and Python
 - 🎓 I also study at the university
 - 📫 How to reach me: [Telegram](https://t.me/marat_pliev)
