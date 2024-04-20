@@ -12,3 +12,5 @@
 
 
 [![codewars](https://www.codewars.com/users/Marat69/badges/large)](https://www.codewars.com/users/Marat69)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramramramzes&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramramramzes&theme=github_dark)
