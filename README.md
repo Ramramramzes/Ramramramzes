@@ -11,13 +11,13 @@
  - 🔭 I’m currently working on my React projects  
  - 🐍 I’m learning C and Python  
  - 🎓 I also study at the university  
- - 📫 How to reach me: 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marat_pliev)
+ - 📫 How to reach me: <br>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marat_pliev)<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plievmar@gmail.com)
+
+## My skills
+[![HTML, CSS, JS, TS, Vite, Webpack, React, Redux, Figma, Git, MySQL, NodeJS](https://skillicons.dev/icons?i=html,css,js,ts,vite,webpack,react,redux,figma,git,mysql,nodejs)](https://skillicons.dev)  
 
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramramramzes&theme=github_dark)
 
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramramramzes&theme=github_dark) &nbsp; ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramramramzes&theme=github_dark)
-
-## My skills
-[![HTML, CSS, JS, TS, Vite, Webpack, React, Redux, Figma, Git, MySQL, NodeJS](https://skillicons.dev/icons?i=html,css,js,ts,vite,webpack,react,redux,figma,git,mysql,nodejs)](https://skillicons.dev)  
