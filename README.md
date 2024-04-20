@@ -8,8 +8,6 @@
 ## My skills
 [![HTML, CSS, JS, TS, Vite, Webpack, React, Redux, Figma, Git, MySQL, NodeJS](https://skillicons.dev/icons?i=html,css,js,ts,vite,webpack,react,redux,figma,git,mysql,nodejs)](https://skillicons.dev)  
 
-<br>
-
 ## About me
 
 - 👨🏻‍💻 I’m currently working in medical college, in IT department.
@@ -24,5 +22,4 @@
 
 ## My stats
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramramramzes&theme=github_dark)
-
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramramramzes&theme=github_dark) &nbsp; ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramramramzes&theme=github_dark)
