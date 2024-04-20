@@ -10,6 +10,8 @@
 
 <br>
 
+## About me
+
 - 👨🏻‍💻 I’m currently working in medical college, in IT department.
 - 🌱 I am a student at 21 Sber school
 - 🔭 I’m currently working on my React projects
