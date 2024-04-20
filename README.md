@@ -4,6 +4,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 [![codewars](https://www.codewars.com/users/Marat69/badges/large)](https://www.codewars.com/users/Marat69)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23009D57&lines=21+school+student)](https://git.io/typing-svg)
 
 ## My skills
