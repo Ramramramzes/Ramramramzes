@@ -2,14 +2,14 @@
 <h1 align="left">Hi there, I'm Marat <img src="https://yt3.googleusercontent.com/j3T9MGX6B1zpOKUmrMdoaYGWiPJbe244P_ozdmP-IO5tpnfJUxCA-U8g5nvBTysxYKGHvXQXBg=s900-c-k-c0x00ffffff-no-rj" height="30"></h1>
 <img align="left" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="kva" width="450"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23009D57&lines=21+school+student)](https://git.io/typing-svg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👨🏻‍💻 I’m currently working in medical college, in IT department.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 I am a student at 21 Sber school
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently working on my React projects
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🐍 I’m learning C and Python
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🎓 I also study at the university
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 📫 How to reach me:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marat_pliev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plievmar@gmail.com)
+ &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23009D57&lines=21+school+student)](https://git.io/typing-svg)
+ - &nbsp;👨🏻‍💻 I’m currently working in medical college, in IT department.
+ - &nbsp;🌱 I am a student at 21 Sber school
+ - &nbsp;🔭 I’m currently working on my React projects
+ - &nbsp;🐍 I’m learning C and Python
+ - &nbsp;🎓 I also study at the university
+ - &nbsp;📫 How to reach me:
+ &nbsp;[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marat_pliev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plievmar@gmail.com)
 
 
 [![codewars](https://www.codewars.com/users/Marat69/badges/large)](https://www.codewars.com/users/Marat69)   
