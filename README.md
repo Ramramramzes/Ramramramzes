@@ -5,8 +5,6 @@
 
 [![codewars](https://www.codewars.com/users/Marat69/badges/large)](https://www.codewars.com/users/Marat69)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23009D57&lines=21+school+student)](https://git.io/typing-svg)
-
 ## My skills
 [![HTML, CSS, JS, TS, Vite, Webpack, React, Redux, Figma, Git, MySQL, NodeJS](https://skillicons.dev/icons?i=html,css,js,ts,vite,webpack,react,redux,figma,git,mysql,nodejs)](https://skillicons.dev)  
 
