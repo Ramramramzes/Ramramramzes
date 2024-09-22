@@ -6,7 +6,7 @@
 [![codewars](https://www.codewars.com/users/Marat69/badges/large)](https://www.codewars.com/users/Marat69)
 
 ## My skills
-[![HTML, CSS, JS, TS, Vite, Webpack, React, Redux, Figma, Git, MySQL, NodeJS, Wordpress, Postgres, Postman](https://skillicons.dev/icons?i=html,css,js,ts,vite,webpack,react,redux,figma,git,mysql,nodejs,wordpress, postgres, postman)](https://skillicons.dev)  
+[![HTML, CSS, JS, TS, Vite, Webpack, React, Redux, Figma, Git, MySQL, NodeJS, Wordpress, Postgres, Postman](https://skillicons.dev/icons?i=html,css,js,ts,vite,webpack,react,redux,figma,git,mysql,nodejs,wordpress,postgres,postman)](https://skillicons.dev)  
 
 ## About me
 
