@@ -1,5 +1,6 @@
-<h1 align="left">Hi there, I'm Marat
-  <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNZFIk73yb9p4nNtxi27Nyv9K6Nth_wZJCA&s" alt="21" width="25"/>
+<h1 align="left" style="display: flex; align-items: center;">
+  Hi there, I'm Marat
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNZFIk73yb9p4nNtxi27Nyv9K6Nth_wZJCA&s" alt="21" width="25" style="margin-left: 10px; vertical-align: middle;" />
 </h1>
 <img align="left" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="kva" width="400"/>
 <br><br><br><br><br><br><br><br><br><br><br>
